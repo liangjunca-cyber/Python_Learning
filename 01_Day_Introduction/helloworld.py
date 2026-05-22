@@ -1,6 +1,10 @@
 # Introduction
 # Day 1 - 30DaysOfPython Challenge
+<<<<<<< HEAD
 # updated by James Liang from VS Code
+=======
+# test by James
+>>>>>>> 88eb07a8d07dc43bcf6aeb1cf36682e026597c2a
 
 print("Hello World!")   # print hello 
 print("Hello James!")   # print hello James
