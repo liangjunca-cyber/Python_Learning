@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../python/vscode-docs"
+		},
+		{
+			"name": "Python_Learning",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"**/toc.json": "jsonc"
+		},
+		"markdown.copyFiles.destination": {
+			"/release-notes/**/*": "/release-notes/images/${documentBaseName/v(.*)/$1/}/",
+			"/api/**/*": "images/${documentBaseName}/"
+		},
+		"markdown.editor.filePaste.videoSnippet": "<video src=\"${src}\" title=\"${title}\" autoplay loop controls muted></video>",
+		"github.copilot.chat.codeGeneration.useInstructionFiles": false
+	}
+}
