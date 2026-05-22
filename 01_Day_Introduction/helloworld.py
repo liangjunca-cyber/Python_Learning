@@ -1,8 +1,9 @@
 # Introduction
 # Day 1 - 30DaysOfPython Challenge
-# updated by James Liang on 2024-06-01
+# updated by James Liang from VS Code
 
-print("Hello World!")   # print hello world
+print("Hello World!")   # print hello 
+print("Hello James!")   # print hello James
 
 print(2 + 3)   # addition(+)
 print(3 - 1)   # subtraction(-)
