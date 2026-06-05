@@ -12,7 +12,11 @@ person_info = {
     'firstname': 'James',
     'lastname': 'Liang',
     'country': 'Canada',
-    'city': 'Ottawa'
+    'city': 'Ottawa',
+    'age': 54,  
+    'is_married': True,
+    'skills': ['ETL', 'Cognos', 'Python', 'React', 'Testing'],
+    'wife': 'Jane Xu'
 }
 
 # Printing the values stored in the variables
