@@ -30,7 +30,7 @@ print('Person information: ', person_info)
 
 # Declaring multiple variables in one line
 
-first_name, last_name, country, age, is_married = 'Asabeneh', 'Yetayeh', 'Helsink', 250, True
+first_name, last_name, country, age, is_married, wife = 'James', 'Liang', 'Canada', 55, True, 'Jane Xu'
 
 print(first_name, last_name, country, age, is_married)
 print('First name:', first_name)
@@ -38,3 +38,4 @@ print('Last name: ', last_name)
 print('Country: ', country)
 print('Age: ', age)
 print('Married: ', is_married)
+print('Wife: ', wife)
